@@ -3,12 +3,12 @@
         {
             "id": 1,
             "title": "walk",
-            "completed": "false"
+            "completed": false
         },
         {
             "id": 2,
             "title": "run",
-            "completed": "false"
+            "completed": false
         }
     ]
 }
